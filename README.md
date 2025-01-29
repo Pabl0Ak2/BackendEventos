@@ -72,7 +72,7 @@ El proyecto usa Flask y otras bibliotecas. Para instalarlas, sigue estos pasos:
 3. Instala las dependencias necesarias ejecutando el siguiente comando en la terminal:
 
     ```bash
-    pip install -r requirements.txt
+    pip install Flask
     ```
 
     Si no tienes el archivo `requirements.txt`, puedes instalar las dependencias manualmente con:
